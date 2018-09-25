@@ -1,0 +1,25 @@
+{
+  "name": "glyph",
+  "version": "1.0.0",
+  "description": "",
+  "main": "node index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "8.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "Kallel",
+  "license": "ISC",
+  "homepage": "",
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "express": "^4.16.2",
+    "mongoose": "^4.13.8"
+  }
+}
